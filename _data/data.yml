@@ -1,20 +1,19 @@
-name: John Doe
+name: Hamish Browne 
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: Hamishobb@gmail.com
   github: johndoe
-  linkedin: johndoe
-  phone: 
+  instagram: Hamishobb24
+  phone: 778-678-8456
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+ 
 
 education:
   - degree: MSc in Informatics
