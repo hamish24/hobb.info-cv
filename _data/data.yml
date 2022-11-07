@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: Hamishobb@gmail.com
+  email: hamishobb@gmail.com
   github: hamish24
   instagram: Hamishobb24
   phone: 778-678-8456
@@ -16,13 +16,13 @@ languages:
  
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Engineering
+    time: Enrolled
+    university: Camosun College, Saanich, BC
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Grade 12 Matriculation
+    time: 2012-2019
+    university: Belmont Secondary, Langford, BC
 
 skills:
   - category: Backend
