@@ -25,26 +25,24 @@ education:
     university: Belmont Secondary, Langford, BC
 
 skills:
-  - category: Backend
+  - category: Mechanical
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Skateboard decks and 
+      - Carbon fibre battery housings
+      - Drones
+      - 
+  - category: Electrical
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Skateboard Battery
+      - Solar
+      - Electrical engines
+  - category: Coding
     skill:
-      - Docker
-      - Kubernetes 
+      - Github
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  My goal is to find a rewarding co-op position for January 2023.
 
 # Experience
 experience:
