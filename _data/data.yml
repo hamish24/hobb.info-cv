@@ -1,4 +1,4 @@
-name: Hamish Orion Burnett Browne aka hobb
+name: Hamish Browne
 support_dark_mode: true
 fork: true
 
@@ -17,32 +17,36 @@ languages:
 
 education:
   - degree: Engineering
-    time: Enrolled
-    university: Camosun College, Saanich, BC
+    time: 2nd year
+    university: Camosun College, Saanich
 
   - degree: Grade 12 Matriculation
     time: 2012-2019
-    university: Belmont Secondary, Langford, BC
+    university: Belmont Secondary, Langford
 
 skills:
   - category: Mechanical
     skill: 
-      - Skateboard decks and 
+      - Skateboard decks 
       - Carbon fibre battery housings
       - Drones
-      - 
+   
   - category: Electrical
     skill:
       - Skateboard Battery
       - Solar
-      - Electrical engines
+      - Electric engines
+      
   - category: Coding
     skill:
+      - 3D modelling
       - Github
 
 # Profile
 profile: |
-  My goal is to find a rewarding co-op position for January 2023.
+  I am a creative ad resourceful enginnering co-op student with a passion for building mechanical and electrical systems.  
+  
+  **My goal is to find a rewarding co-op position for January 2023.**
 
 # Experience
 experience:
@@ -71,13 +75,19 @@ experience:
       Python, Tensorflow, Keras, Matlab
 
 projects:
-  - title: Cool Project 
+  - title: Electric Sailboat 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: ELectric Skateboards
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+      
+  - title: ELectric Trike
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
