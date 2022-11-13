@@ -25,26 +25,27 @@ education:
     university: Belmont Secondary, Langford
 
 skills:
-  - category: Skills
+  - category: Mechanical & Electrical Skills
     skill: 
-      - Skateboard decks 
-      - Carbon fiber battery housings
-      - Drones
-      - Skateboard batteries
-      - Solar
-      - Marine electric engines
+      - Soldering, wiring 
+      - Carbon & fiber glassing
+      - CAD Design
+      - Power Tools & Welding
+      - Solar panel systems
    
   - category: Awards
     skill:
       - Grades 8-11 Honour Roll
-      - AAA Midget Hockey Prov Champions
+      - AAA Midget Hockey Prov Champs
       - Grade 10 Music Scholarship
       
   - category: Certifications
     skill:
       - PADI Open Water
-      - LifeSaving: National Lifeguard, Bronze Medallion
+      - LifeSaving Soc. Lifeguard
+      - Bronze Medallion
       - Red Cross First Aid & CPRC
+      - Pilot (Ground School complete)
 
 # Profile
 profile: |
@@ -58,9 +59,11 @@ experience:
     time: 2019-Present
     company: Fusion Boards
     details: |
-      I lead a small team designing and building high-performance electric skateboards. Focused around design work, including CAD, supply chain management of parts from China, and constructing battery banks and carbon fibre enclosures.
+      I lead a small team designing and building high-performance electric skateboards. My roles include component research, 
+      design work, CAD and 3D printing, supply chain management of parts, and construction of battery banks and carbon fibre 
+      enclosures, and assembly and testing.
     technologies_used: | 
-      3D Printing, Carbon fiber enclosures, Custom deck shaping, Component research, Assembly, Testing
+      CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research
   
   - role: Marine Electrical Technologist
     time: 2019-2020
