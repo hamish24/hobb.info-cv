@@ -16,7 +16,7 @@ languages:
  
 
 education:
-  - degree: Engineering
+  - degree: Engineering Tech (Co-op)
     time: 2nd year
     university: Camosun College, Saanich
 
@@ -28,27 +28,29 @@ skills:
   - category: Mechanical
     skill: 
       - Skateboard decks 
-      - Carbon fibre battery housings
+      - Carbon fiber battery housings
       - Drones
    
   - category: Electrical
     skill:
-      - Skateboard Battery
+      - Skateboard batteries
       - Solar
-      - Electric engines
+      - Marine electric engines
       
   - category: Coding
     skill:
       - 3D modelling
-      - Github
+      - Github, Git
 
 # Profile
 profile: |
-  I am a creative ad resourceful enginnering co-op student with a passion for building mechanical and electrical systems.  
-  
+  I am a creative ad resourceful Enginnering Tech Co-op student with a passion for building mechanical and electrical systems.  
+  <br /><br />
   **My goal is to find a rewarding co-op position for January 2023.**
-
+ 
 # Experience
+I am skilled and experienced at designing, fixing and fabricating mechanical and electronic devices and systems and am familiar with many tools and building materials. I am interested in all mechanical and electrical activities. I love making things and helping people.
+
 experience:
   - role: Software Engineer
     time: 2020-Present
