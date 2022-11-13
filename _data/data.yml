@@ -16,7 +16,7 @@ languages:
  
 
 education:
-  - degree: Engineering Tech (Co-op)
+  - degree: Mechanical Engineering Tech (Co-op)
     time: 2nd year
     university: Camosun College, Saanich
 
@@ -77,26 +77,21 @@ projects:
   - title: Electric Sailboat
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
     details: |
-      Convertied a 41 foot Dufour ketch sailboat from diesel to electric power. 
+      Convertied a 41 foot Dufour ketch sailboat from diesel to a 48v, 
+      400 amp battery system and 18KW electric motor and drive system, with an auxiliary solar panel system. 
 
   - title: Electric Skateboards
     link: https://www.instagram.com/stories/highlights/17904995431554974/
     details: |
-      I have built over a dozen electric skateboards. 
+      I have designed, built, tested and sold over a dozen electric skateboards. 
       
   - title: Electric Trike
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-      I need an inexpensive ride to get from Metchosin to Camosun three times a week.
+      I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed and built the drive 
+      system, built a custom battery enclosure and programmed the control system.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ 
+      
       
 
