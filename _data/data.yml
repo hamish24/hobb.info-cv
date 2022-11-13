@@ -25,28 +25,32 @@ education:
     university: Belmont Secondary, Langford
 
 skills:
-  - category: Mechanical
+  - category: Skills
     skill: 
       - Skateboard decks 
       - Carbon fiber battery housings
       - Drones
-   
-  - category: Electrical
-    skill:
       - Skateboard batteries
       - Solar
       - Marine electric engines
-      
-  - category: Coding
+   
+  - category: Awards
     skill:
-      - 3D modelling
-      - Github, Git
+      - Grades 8-11 Honour Roll
+      - AAA Midget Hockey Prov Champions
+      - Grade 10 Music Scholarship
+      
+  - category: Certifications
+    skill:
+      - PADI Open Water
+      - LifeSaving: National Lifeguard, Bronze Medallion
+      - Red Cross First Aid & CPRC
 
 # Profile
 profile: |
   I am a creative ad resourceful Enginnering Tech Co-op student with a passion for building mechanical and electrical systems.  
   <br /><br />
-  **My goal is to find a rewarding co-op position for January 2023.**
+  <b>My goal is to find a rewarding co-op position for January 2023.</b>
  
 # Experience
 experience:
