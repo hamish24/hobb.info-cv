@@ -64,7 +64,7 @@ experience:
     details: |
       I was tasked with converting a 41 foot ketch sailboat from diesel to electric. This process involved extensive research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which I successfully completed.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Electrical sysem modelling, Wire pulling, Harness crimping
 
 projects:
   - title: Electric Sailboat 
@@ -72,14 +72,14 @@ projects:
     details: |
       Convertied a 41 foot Dufour ketch sailboat from diesel to electric power. 
 
-  - title: ELectric Skateboards
+  - title: Electric Skateboards
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
       
   - title: Electric Trike
-    link: #
+    link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
