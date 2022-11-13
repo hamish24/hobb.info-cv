@@ -62,7 +62,7 @@ experience:
     company: Fusion Boards
     details: |
       I lead a small team designing and building high-performance electric skateboards. My roles include component research, 
-      design work, CAD and 3D printing, supply chain management of parts, and construction of battery banks and carbon fibre 
+      design work, CAD and 3D printing, supply chain management of parts, and construction of battery banks and carbon fiber 
       enclosures, and assembly and testing.
     technologies_used: | 
       CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research
@@ -71,7 +71,9 @@ experience:
     time: 2019-2020
     company: Self-Employed
     details: |
-      I was tasked with converting a 41 foot ketch sailboat from diesel to electric. This process involved extensive research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which I successfully completed.
+      I was tasked with converting a 41 foot ketch sailboat from diesel to electric. This process involved extensive 
+      research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which 
+      I successfully completed.
     technologies_used: | 
       Electrical sysem modelling, Wire pulling, Harness crimping
 
@@ -80,7 +82,7 @@ projects:
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
     details: |
       Converted a 41 foot Dufour ketch sailboat from diesel to a 48v, 
-      400 amp battery with 18KW electric motor and an auxiliary solar panel system. 
+      400 amp battery with 18KW electric motor, with an auxiliary solar panel system. 
 
   - title: Electric Skateboards
     link: https://www.instagram.com/stories/highlights/17904995431554974/
@@ -90,8 +92,8 @@ projects:
   - title: Electric Trike
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-      I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed and built the drive 
-      system, built a custom battery enclosure and programmed the control system.
+      I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed 
+      and built the drive system, built a custom battery enclosure and programmed the control system.
 
  
       
