@@ -16,7 +16,7 @@ languages:
  
 
 education:
-  - degree: Mechanical Engineering Tech (Co-op)
+  - degree: Mechanical Engineering (Co-op)
     time: 2nd year
     university: Camosun College, Saanich
 
@@ -25,12 +25,12 @@ education:
     university: Belmont Secondary, Langford
 
 skills:
-  - category: Mechanical & Electrical Skills
+  - category: Mechanical & <br />Electrical Skills
     skill: 
       - Soldering, wiring 
       - Carbon & fiber glassing
-      - CAD Design
-      - Power Tools & Welding
+      - CAD design
+      - Power tools & welding
       - Solar panel systems
    
   - category: Awards
@@ -49,7 +49,9 @@ skills:
 
 # Profile
 profile: |
-  I am a creative ad resourceful Enginnering Tech Co-op student with a passion for building mechanical and electrical systems.  
+  I am a friendly, motivated, reliable, and hard-working college student. 
+  I am skilled and experienced at designing, fixing and fabricating mechanical and electronic devices and 
+  systems and am familiar with many tools and building materials. I love making things and helping people.  
   <br /><br />
   <b>My goal is to find a rewarding co-op position for January 2023.</b>
  
@@ -77,8 +79,8 @@ projects:
   - title: Electric Sailboat
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
     details: |
-      Convertied a 41 foot Dufour ketch sailboat from diesel to a 48v, 
-      400 amp battery system and 18KW electric motor and drive system, with an auxiliary solar panel system. 
+      Converted a 41 foot Dufour ketch sailboat from diesel to a 48v, 
+      400 amp battery with 18KW electric motor and an auxiliary solar panel system. 
 
   - title: Electric Skateboards
     link: https://www.instagram.com/stories/highlights/17904995431554974/
