@@ -52,27 +52,19 @@ profile: |
 I am skilled and experienced at designing, fixing and fabricating mechanical and electronic devices and systems and am familiar with many tools and building materials. I am interested in all mechanical and electrical activities. I love making things and helping people.
 
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Head of Engineering
+    time: 2019-Present
+    company: Fusion Boards
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      I lead a small team designing and building high-performance electric skateboards. Focused around design work, including CAD, supply chain management of parts from China, and constructing battery banks and carbon fibre enclosures.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      3D Printing, Carbon fiber enclosures, Custom deck shaping, Component research, Assembly, Testing
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Marine Electrical Technologist
+    time: 2019-2020
+    company: Self-Employed
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      I was tasked with converting a 41 foot ketch sailboat from diesel to electric. This process involved extensive research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which I successfully completed.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
@@ -80,8 +72,7 @@ projects:
   - title: Electric Sailboat 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Convertied a 41 foot Dufour ketch sailboat from diesel to electric power. 
 
   - title: ELectric Skateboards
     link: #
@@ -89,7 +80,7 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
       
-  - title: ELectric Trike
+  - title: Electric Trike
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
