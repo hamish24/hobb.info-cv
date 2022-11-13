@@ -67,25 +67,23 @@ experience:
       Electrical sysem modelling, Wire pulling, Harness crimping
 
 projects:
-  - title: Electric Sailboat 
-    link: #
+  - title: Electric Sailboat
+    link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
     details: |
       Convertied a 41 foot Dufour ketch sailboat from diesel to electric power. 
 
   - title: Electric Skateboards
-    link: #
+    link: https://www.instagram.com/stories/highlights/17904995431554974/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I have built over a dozen electric skateboards. 
       
   - title: Electric Trike
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I need an inexpensive ride to get from Metchosin to Camosun three times a week.
 
-# Volunteering
-volunteering:
+# Awards
+awards:
   - time: 2020-Present
     role: PR Manager
     company: Some random organization
