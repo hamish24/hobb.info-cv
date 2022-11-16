@@ -58,10 +58,10 @@ profile: |
 # Experience
 experience:
   - role: Head of Engineering
-    time: 2019-Present
+    time: 2019-2020
     company: Fusion Boards
     details: |
-      I lead a small team designing and building high-performance electric skateboards. My roles include component research, 
+      I was taked with leading a small team designing and building high-performance electric skateboards. My roles include component research, 
       design work, CAD and 3D printing, supply chain management of parts, and construction of battery banks and carbon fiber 
       enclosures, and assembly and testing.
     technologies_used: | 
@@ -95,6 +95,10 @@ projects:
       I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed 
       and built the drive system, built a custom battery enclosure and programmed the control system.
 
+  - title: drones
+    link: 
+    details: |
+     i have bult many drones over the years. my favrut of witch is my race drone. 
  
       
       
