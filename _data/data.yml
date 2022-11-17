@@ -51,9 +51,9 @@ skills:
 profile: |
   I am a friendly, motivated, reliable, and hard-working college student. 
   I am skilled and experienced at designing, fixing and fabricating mechanical and electronic devices and 
-  systems and am familiar with many tools and building materials. I love making things and helping people.  
+  systems, and am familiar with many tools and building materials. I love making things and helping people.  
   <br /><br />
-  <b>My goal is to find a challenging and rewarding co-op position for January 2023 that i can applie some of my many skills to.</b>
+  <b>My goal is to find a challenging and rewarding co-op position for January 2023 where I can apply some of my many skills.</b>
  
 # Experience
 experience:
@@ -62,7 +62,7 @@ experience:
     company: Fusion Boards
     details: |
       I was taked with leading a small team designing and building high-performance electric skateboards. My roles include component research, 
-      design work, CAD and 3D printing, supply chain management of parts, and construction of battery banks and carbon fiber 
+      design work, CAD and 3D printing, supply chain management of parts, construction of battery banks and carbon fiber 
       enclosures, and assembly and testing.
     technologies_used: | 
       CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research, soldering.
@@ -95,10 +95,10 @@ projects:
       I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed 
       and built the drive system, built a custom battery enclosure and programmed the control system.
 
-  - title: drones
+  - title: UAV Drones
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-     i have bult many drones over the years. my favrut of witch is my race drone. 
+     I have built many drones over the years. My favorite of which is a racing drone. 
  
       
       
