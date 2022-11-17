@@ -27,7 +27,8 @@ education:
   - degree: Aviation and Design Program 
     time: 2020-2020
     university: Mount Douglas Secondary, Victoria
-
+    grades: 94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
+  
 skills:
   - category: Mechanical & <br />Electrical Skills
     skill: 
@@ -39,7 +40,6 @@ skills:
    
   - category: Awards
     skill:
-      - 94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
       - Grades 8-11 Honour Roll
       - AAA Midget Hockey Prov Champs
       - Grade 10 Music Scholarship
@@ -84,7 +84,7 @@ experience:
     technologies_used: | 
       Electrical system modelling, Wire pulling, Harness crimping, Composite work,
       Solar panel and controller installation, 48v 400amp battery bank, Trouble shooting and testing.
-   
+  
   
 projects:
   - title: Electric Sailboat
