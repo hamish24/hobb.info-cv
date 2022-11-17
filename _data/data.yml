@@ -84,12 +84,14 @@ experience:
       Electrical system modelling, Wire pulling, Harness crimping, Composite work,
       Solar panel and controller installation, 48v 400amp battery bank, Trouble shooting and testing.
       
-  - role: student
+  - role: Student
     time: 2020-2020
     company: Mount Douglas Secondary Aviation and Design Program
     details: |
       94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
-  
+    technologies_used: | 
+     rivits, wind tunnel, hot wire foam cutter, composits
+     
 projects:
   - title: Electric Sailboat
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
