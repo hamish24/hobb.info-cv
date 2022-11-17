@@ -24,10 +24,9 @@ education:
     time: 2012-2021
     university: Belmont Secondary, Langford
    
-  - degree: Aviation and Design Program
-    Mount Douglas Secondary, Victoria
-  time: 2020-2020
-
+  - degree: Aviation and Design Program 
+    time: 2020-2020
+    university: Mount Douglas Secondary, Victoria
 
 skills:
   - category: Mechanical & <br />Electrical Skills
