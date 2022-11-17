@@ -27,8 +27,7 @@ education:
   - degree: Aviation and Design Program 
     time: 2020-2020
     university: Mount Douglas Secondary, Victoria
-    grades: 94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
-  
+    
 skills:
   - category: Mechanical & <br />Electrical Skills
     skill: 
@@ -84,7 +83,12 @@ experience:
     technologies_used: | 
       Electrical system modelling, Wire pulling, Harness crimping, Composite work,
       Solar panel and controller installation, 48v 400amp battery bank, Trouble shooting and testing.
-  
+      
+  - role: student
+    time: 2020-2020
+    company: Mount Douglas Secondary Aviation and Design Program
+    details: |
+  94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
   
 projects:
   - title: Electric Sailboat
