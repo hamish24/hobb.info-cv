@@ -71,9 +71,10 @@ experience:
     time: 2019-2020
     company: Fusion Boards
     details: |
-      I was tasked with leading a small team designing and building high-performance electric skateboards. My roles included component research, 
-      design work, CAD and 3D printing, supply chain management of parts, construction of battery banks and carbon fiber 
-      enclosures, and assembly and testing.
+      I was tasked with leading a small team designing and building high-performance electric
+      skateboards. some of my responsibilities were component research, design work, CAD and 3D printing, supply chain
+      management of parts (from China), construction of battery banks and carbon fiber enclosures, and
+      assembly as well as testing.
     technologies_used: | 
       CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research, Soldering.
   
@@ -87,7 +88,7 @@ experience:
      arch with solar panels. The electric conversion has proved out with over 2 years of sustainable
      cruising.
     technologies_used: | 
-      Electrical system modelling, Wire pulling, Harness crimping, Composite work,
+      Electrical system modelling, cable management, Harness crimping, Composite work,
       Solar panel and controller installation, 48v 400amp battery bank, Trouble shooting and testing.
       
   - role: Student
@@ -103,12 +104,13 @@ projects:
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
     details: |
       Converted a 41 foot Dufour ketch sailboat from diesel to a 48v, 
-      400 amp battery with 18KW electric motor, with an auxiliary solar panel system. 
+      400 amp battery with an 18KW liquid cooled electric motor, with an 800w solar array. 
 
   - title: Electric Skateboards
     link: https://www.instagram.com/p/ClDPyiDLUPY/
     details: |
-      I have designed, built, tested, and sold over a dozen electric skateboards. 
+      I have designed, built, tested, and sold over a dozen electric skateboards. the latest of witch is 4wd with 175mm pneumatic tires and a custom made carbon
+      fiber and PLA deck.
       
   - title: Electric Trike
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
@@ -119,8 +121,8 @@ projects:
   - title: UAV Drones
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-     I have built many drones over the years. My favorite of which is a racing drone. 
- 
+     I have designed and built many drones over the years. My fave is my race drone with a
+     FPV camera and goggles.
       
       
 
