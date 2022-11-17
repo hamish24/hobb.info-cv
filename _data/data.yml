@@ -26,8 +26,8 @@ education:
    
   - degree: Aviation and Design Program
     Mount Douglas Secondary, Victoria
-  time: 2020
-(94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication)
+  time: 2020-2020
+
 
 skills:
   - category: Mechanical & <br />Electrical Skills
@@ -76,12 +76,15 @@ experience:
     time: 2019-2020
     company: Self-Employed
     details: |
-      I was tasked with converting a 41 foot ketch sailboat from diesel to electric. This process involved extensive 
-      research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which 
-      I successfully completed.
-    technologies_used: | 
-      Electrical sysem modelling, Wire pulling, Harness crimping, Composite work, Trouble shooting, Testing.
-
+     I successfully converted a 41 foot ketch sailboat from diesel to electric. This process involved
+extensive research, calculations and design, fibre-glassing, wiring and troubleshooting. It was a
+year-long project which I successfully completed. I also designed, built and installed a carbon fibre
+arch with solar panels. The electric conversion has proved out with over 2 years of sustainable
+cruising.
+Technologies_Used: | Electrical system modelling, Wire pulling, Harness crimping, composite work,
+solar panel and controller installation,48v 400amp battery bank, trouble shooting and testing.
+   
+  
 projects:
   - title: Electric Sailboat
     link: https://www.instagram.com/reel/CjFIsV0LrIz/?utm_source=ig_web_copy_link
