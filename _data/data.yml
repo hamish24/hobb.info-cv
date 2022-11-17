@@ -61,11 +61,11 @@ experience:
     time: 2019-2020
     company: Fusion Boards
     details: |
-      I was taked with leading a small team designing and building high-performance electric skateboards. My roles include component research, 
+      I was tasked with leading a small team designing and building high-performance electric skateboards. My roles included component research, 
       design work, CAD and 3D printing, supply chain management of parts, construction of battery banks and carbon fiber 
       enclosures, and assembly and testing.
     technologies_used: | 
-      CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research, soldering.
+      CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research, Soldering.
   
   - role: Marine Electrical Tech
     time: 2019-2020
@@ -75,7 +75,7 @@ experience:
       research, calculations and design, fibreglassing, wiring and troubleshooting. It was a year-long project which 
       I successfully completed.
     technologies_used: | 
-      Electrical sysem modelling, Wire pulling, Harness crimping, composit work, truble shotting and testing.
+      Electrical sysem modelling, Wire pulling, Harness crimping, Composite work, Trouble shooting, Testing.
 
 projects:
   - title: Electric Sailboat
@@ -87,13 +87,13 @@ projects:
   - title: Electric Skateboards
     link: https://www.instagram.com/stories/highlights/17904995431554974/
     details: |
-      I have designed, built, tested and sold over a dozen electric skateboards. 
+      I have designed, built, tested, and sold over a dozen electric skateboards. 
       
   - title: Electric Trike
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
-      I needed an inexpensive ride to get from Metchosin to Camosun three times a week. I welded a trike frame, designed 
-      and built the drive system, built a custom battery enclosure and programmed the control system.
+      I needed an inexpensive ride to zip from Metchosin to Camosun three times a week. I welded a trike frame, designed 
+      and built the drive system, built a custom battery enclosure, and programmed the control system.
 
   - title: UAV Drones
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
