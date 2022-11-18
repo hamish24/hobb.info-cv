@@ -20,7 +20,7 @@ education:
     time: 2nd year
     university: Camosun College, Saanich
 
-  - degree: Grade 12 Matriculation
+  - degree: B.C. Certificate of Graduation (Dogwood Diploma)
     time: 2012-2021
     university: Belmont Secondary, Langford
    
@@ -57,7 +57,7 @@ skills:
 profile: |
   I am a friendly, motivated, reliable, and hard-working college student. I am skilled and experienced
   at designing, fixing and fabricating mechanical and electronic devices and systems and am familiar
-  with many tools and building materials. I love designing and making things, problem solving, and'
+  with many tools and building materials. I love designing and making things, problem solving, and
   helping people. My long term goal is to design, test, build and improve sustainable transportation
   technology.
 
@@ -71,10 +71,10 @@ experience:
     time: 2019-2020
     company: Fusion Boards
     details: |
-      I was tasked with leading a small team designing and building high-performance electric
-      skateboards. some of my responsibilities were component research, design work, CAD and 3D printing, supply chain
-      management of parts (from China), construction of battery banks and carbon fiber enclosures, and
-      assembly as well as testing.
+      I led a small team designing and building high-performance electric
+      skateboards. my responsibilities included component research, design work, CAD and 3D printing, supply chain
+      management of parts (from China), construction of battery banks and carbon fiber enclosures,
+      assembly and testing.
     technologies_used: | 
       CAD (Fusion 360, SolidWorks), 3D Printing, Fiberglassing, Deck shaping, Component research, Soldering.
   
