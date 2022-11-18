@@ -36,7 +36,7 @@ skills:
       - CAD design
       - Power tools & welding
       - Solar panel systems
-      - lithium and lead acid battery systems
+      - Lithium and lead acid batteries
    
   - category: Awards
     skill:
@@ -95,9 +95,9 @@ experience:
     time: 2020-2020
     company: Mount Douglas Secondary Aviation and Design Program
     details: |
-      94% in airplane pilot ground school, 99% in Aviation Systems/ Design and 100% in Aviation Fabrication
+      Courses included: Airplane pilot ground school (94%), Aviation Systems/ Design (99%), and Aviation Fabrication (100%)
     technologies_used: | 
-     rivits, wind tunnel, hot wire foam cutter, composits
+     Rivits, Wind tunnel, Hot wire foam cutter, Composits
      
 projects:
   - title: Electric Sailboat
