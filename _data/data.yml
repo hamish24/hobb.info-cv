@@ -43,6 +43,7 @@ skills:
       - Grades 8-11 Honour Roll
       - AAA Midget Hockey Prov Champs
       - Grade 10 Music Scholarship
+      - Captain Belmont ultimate frisbee team
       
   - category: Certifications
     skill:
@@ -98,7 +99,7 @@ experience:
     details: |
       Courses included: Airplane Pilot Ground School (94%), Aviation Systems/ Design (99%), and Aviation Fabrication (100%)
     technologies_used: | 
-     Rivits, Wind tunnel, Hot wire foam cutter, Composits
+     Rivets, Wind tunnel, Hot wire foam cutter, Composites
      
 projects:
   - title: Electric Sailboat
@@ -110,10 +111,10 @@ projects:
   - title: Electric Skateboards
     link: https://www.instagram.com/p/ClDPyiDLUPY/
     details: |
-      I have designed, built, tested, and sold over a dozen electric skateboards. the latest of witch is 4wd with 175mm pneumatic tires and a custom made carbon
+      I have designed, built, tested, and sold over a dozen electric skateboards. the latest of which is 4wd with 175mm pneumatic tires and a custom made carbon
       fiber and PLA deck.
       
-  - title: Electric Trike
+  - title: ==Electric Trike==
     link: https://www.instagram.com/p/CKnhawrhL63/?utm_source=ig_web_copy_link
     details: |
       I needed an inexpensive ride to zip from Metchosin to Camosun three times a week. I welded a trike frame, designed 
